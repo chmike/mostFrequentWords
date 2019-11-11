@@ -1,4 +1,4 @@
-# Compare mostFrequentWords functions
+#Compare mostFrequentWords functions
 
 We compare three different implementations of the function `mostFrequentWords`. 
 Given a map of words and occurence count, the function returns the *n* most
